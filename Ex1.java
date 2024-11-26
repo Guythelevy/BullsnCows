@@ -2,16 +2,8 @@ import java.util.*;
 
 
 /**
- * Introduction to Computer Science, Ariel University, Ex1 (manual Example + a Template for your solution)
- * See: https://docs.google.com/document/d/1C1BZmi_Qv6oRrL4T5oN9N2bBMFOHPzSI/edit?usp=sharing&ouid=113711744349547563645&rtpof=true&sd=true
- * <p>
- * Ex1 Bulls & Cows - Automatic solution.
- * ** Add a general readme text here **
- * Add your explanation here:
- * <p>Found below.
- * <p>
- * ** General Solution (algorithm) **
- * Add your explanation here:
+ 
+ 
  * <p> First, a guess is generated using the MakeAGuess function. an array is intilizied to track all possible solutions.
  * <p> We play the guess and count our Bulls & Cows, then we update our array accordingly.
  * <p> Then we roll another guess from the arr, count bulls and cows,update our array, and so on, untill we get our solution.
